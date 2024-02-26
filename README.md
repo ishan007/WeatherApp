@@ -31,7 +31,7 @@ App is built using Clean Architecture and MVVM.
 
 ## Third party libaries used in this application are -
 
-* **[Hilt:]([https://dagger.dev/tutorial/](https://developer.android.com/training/dependency-injection/hilt-android))** Dagger is compile-time dependency injection framework provided by google.
+* **[Hilt:](https://developer.android.com/training/dependency-injection/hilt-android)** Dagger is compile-time dependency injection framework provided by google.
 
 * **[Retrofit 2:](https://square.github.io/retrofit/)** A type-safe HTTP client for Android and Java  
 
