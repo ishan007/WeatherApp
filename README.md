@@ -1,6 +1,6 @@
 # WeatherApp
-Weather app
-
+<img src="https://github.com/ishan007/WeatherApp/blob/master/app/screenshot/screenshot_dropdown.png" width="200" />
+<img src="https://github.com/ishan007/WeatherApp/blob/master/app/screenshot/screenshot_home.png" width="200" />
 # How to setup
 Clone the project in your local machine and open it in android studio.
 To run unit test, click on test package and select "run test with coverage" option
